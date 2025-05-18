@@ -59,6 +59,37 @@ git clone https://github.com/sudhakarsharma07/finance-dashboard.git
 cd finance-dashboard
 
 
+## 📂Project Structure
+src/
+│
+├── components/
+│   ├── Header.jsx
+│   ├── Sidebar.jsx
+│   ├── FinancialCards.jsx
+│   ├── Charts.jsx
+│   ├── TransactionsTable.jsx
+│   ├── CalendarTracker.jsx
+│   └── Notifications.jsx
+│
+├── pages/
+│   ├── Dashboard.jsx
+│   ├── Accounts.jsx
+│   ├── ChartsPage.jsx
+│   ├── CalendarPage.jsx
+│   └── Settings.jsx
+│
+├── App.jsx
+├── index.css
+└── main.jsx
+
+
+##  Install the dependencies:
+npm install
+
+## Run the development server:
+npm run dev
+
+
 
 
 
