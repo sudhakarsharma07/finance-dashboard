@@ -1,3 +1,67 @@
+# Finance Dashboard
+
+A responsive and interactive personal finance dashboard to visualize user financial data using charts, reusable components, and state management.
+
+## 🚀 Features
+- **Header & Profile Section**
+  - Personalized greeting with user name and avatar.
+  - Monthly savings goal status bar.
+
+- **Financial Overview Cards**
+  - Total Account Balance
+  - Monthly Income
+  - Monthly Expenses
+  - Savings Ratio
+  - Toggle view for Monthly, Quarterly, Yearly.
+
+- **Charts**
+  - Expense vs Income Chart (Line/Area chart)
+  - Category-Wise Spending Pie Chart
+  - Clickable segments to drill down into subcategories
+
+- **Recent Transactions Table**
+  - Show latest transactions with filter and search options.
+  - Color-coded for easy distinction.
+
+- **Calendar-based Tracker** *(Optional Bonus)*
+  - Monthly calendar showing daily spending.
+  - Clickable day to view transactions.
+
+- **Notifications & Tips**
+  - Smart alerts (e.g., "Overspending on food").
+  - Budget tips & insights.
+
+- **Budgeting Assistant** *(Optional Bonus)*
+  - Monthly budget by category.
+  - Visual indicator of budget usage.
+
+- **Other Features**
+  - Responsive mobile-first layout.
+  - Light/Dark mode toggle.
+  - Sidebar navigation with routing.
+  - Clean, minimal, and professional design.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite
+- **Styling:** Bootstrap
+- **Routing:** React Router
+- **Data Handling:** Mock data (JSON / Axios)
+- **Animations:** Framer Motion (optional)
+
+---
+
+## 📦 Installation
+Clone the repository:
+```bash
+git clone https://github.com/sudhakarsharma07/finance-dashboard.git
+cd finance-dashboard
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
