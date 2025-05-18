@@ -1,0 +1,25 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-link.active {
+  font-weight: 600;
+  background-color: #007bff;
+  color: white !important;
+  border-radius: 4px;
+}
+
+.progress {
+  height: 20px;
+}
+
+.table thead {
+  background-color: #f1f1f1;
+}
+
+.dark-mode .table thead {
+  background-color: #2a2a2a;
+}
