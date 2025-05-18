@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Sidebar from './components/Sidebar';
 import Dashboard from './pages/Dashboard';
-import Charts from './components/charts'; 
+import Charts from './components/Charts'; 
 import NotificationsTips from './components/NotificationsTips';
 import CalendarPage from './components/CalendarPage';
 import Accounts from './pages/Accounts';

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Charts from './charts'
+import Charts from './Charts'
 import { Pie } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
